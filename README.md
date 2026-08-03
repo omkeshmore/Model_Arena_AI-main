@@ -257,43 +257,6 @@ http://localhost:5173
 
 ---
 
-# 📸 Platform Preview
-
-Experience an intuitive benchmarking workspace designed for comparing multiple Large Language Models through a unified evaluation interface.
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="50%">
-
-### 🏠 Workspace Dashboard
-
-<img src="https://ik.imagekit.io/Rishi749/Model_Arena_AI/Dashboard.png" width="100%" alt="ModelArena Dashboard"/>
-
-<p align="center">
-Create new comparison battles, monitor previous evaluations, and launch AI benchmarks from a unified workspace.
-</p>
-
-</td>
-
-<td align="center" width="50%">
-
-### ⚖️ Side-by-Side Evaluation
-
-<img src="https://ik.imagekit.io/Rishi749/Model_Arena_AI/Comparision.gif" width="100%" alt="LLM Comparison"/>
-
-<p align="center">
-Compare responses from multiple LLMs alongside AI-generated scores and detailed reasoning from the evaluation engine.
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 🤝 Contributing
 
