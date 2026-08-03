@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ModelArena AI | Pro AI Battle & Comparison</title>
+    <script>
+      (function() {
+        var saved = localStorage.getItem('modelarena_theme');
+        if (saved === 'light') {
+          document.documentElement.classList.remove('dark');
+          document.documentElement.classList.add('light');
+        } else {
+          document.documentElement.classList.remove('light');
+          document.documentElement.classList.add('dark');
+          localStorage.setItem('modelarena_theme', 'dark');
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-5urhiUmX.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Caz0PJM3.css">
+  </head>
+  <body class="bg-[#0a0b10] text-[#f8fafc]">
+    <div id="root"></div>
+  </body>
+</html>
