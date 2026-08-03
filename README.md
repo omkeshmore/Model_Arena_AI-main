@@ -305,13 +305,7 @@ Feel free to open an issue, submit a pull request, or suggest new evaluation ide
 
 ---
 
-<p align="center">
-  <img
-    src="https://ik.imagekit.io/Rishi749/Model_Arena_AI/Model_Arena_Footer.png"
-    alt="ModelArena AI Footer"
-    width="100%"
-  />
-</p>
+
 
 <div align="center">
 
