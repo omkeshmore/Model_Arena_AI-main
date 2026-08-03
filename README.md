@@ -319,6 +319,6 @@ Feel free to open an issue, submit a pull request, or suggest new evaluation ide
 
 If you found this project valuable, consider giving it a **Star** on GitHub.
 
-**Built with ❤️ by Rishabh Jagtap**
+**Built with ❤️ by Omkesh More**
 
 </div>
